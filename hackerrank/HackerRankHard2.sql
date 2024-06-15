@@ -1,5 +1,5 @@
 /*
-Hacker Rank Solution
+Hacker Rank Solution (MSSQL)
 By Michael Remollino (mike dot remo @ g mail dot com)
 https://www.hackerrank.com/challenges/15-days-of-learning-sql/
 */
