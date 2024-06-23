@@ -1,1 +1,1 @@
-My solutions for HackerRank and LeetCode challenges
+My MS-SQL solutions for HackerRank and LeetCode challenges
